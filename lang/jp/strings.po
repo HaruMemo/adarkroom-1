@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: adarkroom\n"
 "POT-Creation-Date: 2014-06-25 14:58+0100\n"
-"PO-Revision-Date: 2014-06-25 14:58-0500\n"
+"PO-Revision-Date: 2014-10-17 03:05+0900\n"
 "Last-Translator: nutz <spencie01@gmail.com>\n"
 "Language-Team: \n"
 "Language: jp\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.6.5\n"
+"X-Generator: Poedit 1.5.7\n"
 "X-Poedit-KeywordsList: _\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: s;\n"
@@ -17,33 +17,33 @@ msgstr ""
 
 #: ../../script/room.js:18
 msgid "trap"
-msgstr "トラップ"
+msgstr "罠"
 
 #: ../../script/room.js:21
 msgid ""
 "builder says she can make traps to catch any creatures might still be alive "
 "out there"
-msgstr "ビルダーは、彼女がどんな生き物がまだそこに生きているかもしれませんキャッチするトラップを作ることができると言う"
+msgstr "建築家は、森の中の生き物を捕らえる罠を作ることができると言う。"
 
 #: ../../script/room.js:22
 msgid "more traps to catch more creatures"
-msgstr "より多くの生き物をキャッチするのトラップ"
+msgstr "罠の数と取れ高は比例する。"
 
 #: ../../script/room.js:23
 msgid "more traps won't help now"
-msgstr "より多くのトラップは、今助けにはなりません"
+msgstr "これ以上罠を作っても無駄になるだけだ。"
 
 #: ../../script/room.js:33
 msgid "cart"
-msgstr "カート"
+msgstr "荷車"
 
 #: ../../script/room.js:36
 msgid "builder says she can make a cart for carrying wood"
-msgstr "ビルダーは、彼女は、木材を運ぶためのカートを作ることができると言う"
+msgstr "建築家は、木材を運ぶための荷車を作ることができると言う。"
 
 #: ../../script/room.js:37
 msgid "the rickety cart will carry more wood from the forest"
-msgstr "ガタガタカートは森林からより多くの木材を運ぶ"
+msgstr "荷車はよく揺れるが、木材を運ぶ量は増えた。"
 
 #: ../../script/room.js:46
 msgid "hut"
@@ -51,27 +51,27 @@ msgstr "小屋"
 
 #: ../../script/room.js:49
 msgid "builder says there are more wanderers. says they'll work, too."
-msgstr "ビルダーは、より多くの放浪者があると述べています。彼らはあまりにも、うまくいくと言います。"
+msgstr "建築家はここにもっと彷徨う者がいて、彼らがきっと力になると言った。"
 
 #: ../../script/room.js:50
 msgid "builder puts up a hut, out in the forest. says word will get around."
-msgstr "ビルダーは出森の中で、小屋を置きます。言葉は周りを取得予定だという。"
+msgstr "建築家は小屋をこしらえ、きっといつか声が届く日が来ると言った。"
 
 #: ../../script/room.js:51
 msgid "no more room for huts."
-msgstr "小屋のためのこれ以上の余地"
+msgstr "これ以上小屋を作るには、土地が狭すぎる。"
 
 #: ../../script/room.js:61
 msgid "lodge"
-msgstr "ロッジ"
+msgstr "丸太小屋"
 
 #: ../../script/room.js:64
 msgid "villagers could help hunt, given the means"
-msgstr "村人たちは与えられた手段、狩りを助けることができる"
+msgstr "村の者たちは、方法さえ分かれば狩りをすると言う。"
 
 #: ../../script/room.js:65
 msgid "the hunting lodge stands in the forest, a ways out of town"
-msgstr "狩猟小屋は、さまざまな方法町から、森の中に立っている"
+msgstr "狩猟小屋は村のはずれの森に建った。"
 
 #: ../../script/room.js:76
 msgid "trading post"
@@ -79,24 +79,24 @@ msgstr "交易所"
 
 #: ../../script/room.js:79
 msgid "a trading post would make commerce easier"
-msgstr "交易所は、商取引を容易にするだろう"
+msgstr "交易所では、物々交換が出来る。"
 
 #: ../../script/room.js:80
 msgid ""
 "now the nomads have a place to set up shop, they might stick around a while"
-msgstr "今遊牧民が店をセットアップする場所を持って、彼らはしばらく固執かもしれません"
+msgstr "放浪していた者が店を持てるようになった。しばらくはここに留まるだろう。"
 
 #: ../../script/room.js:90
 msgid "tannery"
-msgstr "皮なめし工場"
+msgstr "革なめし場"
 
 #: ../../script/room.js:93
 msgid "builder says leather could be useful. says the villagers could make it."
-msgstr "ビルダーは革が役に立つかもしれないと言います。村人たちはそれを作ることができたと言います。"
+msgstr "建築家は革は役に立つだろうし、村人が加工できると言った。"
 
 #: ../../script/room.js:94
 msgid "tannery goes up quick, on the edge of the village"
-msgstr "皮なめし工場では、村の端に、アップクイック行く"
+msgstr "なめし場はすぐに村の角に建てられた。"
 
 #: ../../script/room.js:104
 msgid "smokehouse"
@@ -105,35 +105,36 @@ msgstr "薫製場"
 #: ../../script/room.js:107
 msgid ""
 "should cure the meat, or it'll spoil. builder says she can fix something up."
-msgstr "肉を治すべきか、それが台無しよ。ビルダーは彼女が何かを修正できたと言います。"
+msgstr ""
+"手を加えないと肉はすぐに駄目になる。建築家はそのための場所を作ると言った。"
 
 #: ../../script/room.js:108
 msgid "builder finishes the smokehouse. she looks hungry."
-msgstr "ビルダーは燻製を終了。彼女は空腹に見えます。"
+msgstr "燻製場の建築が完了した。建築家はどうやら空腹らしい。"
 
 #: ../../script/room.js:118
 msgid "workshop"
-msgstr "ワークショップ"
+msgstr "小工場"
 
 #: ../../script/room.js:121
 msgid "builder says she could make finer things, if she had the tools"
-msgstr "ビルダーは、彼女がツールを持っていた場合、彼女は、細かいものを作ることができると言う"
+msgstr "建築家は、道具さえあれば、きちんとした物が作れると言う。"
 
 #: ../../script/room.js:122
 msgid "workshop's finally ready. builder's excited to get to it"
-msgstr "ワークショップでは、最終的に準備ができています。ビルダーは、それを取得することに興奮している"
+msgstr "ついに小工場が出来た。建築家は嬉しそうだ。"
 
 #: ../../script/room.js:133
 msgid "steelworks"
-msgstr "製鋼所"
+msgstr "製鉄場"
 
 #: ../../script/room.js:136
 msgid "builder says the villagers could make steel, given the tools"
-msgstr "ビルダーは、村人たちは道具を考えると、鋼を作ることができると言う"
+msgstr "建築家曰く、手段さえあれば鋼鉄だって作れるらしい。"
 
 #: ../../script/room.js:137
 msgid "a haze falls over the village as the steelworks fires up"
-msgstr "製鉄所は、最大火災などのヘイズは、村の上に落ちる"
+msgstr "製鉄場の炎が燃え盛るほど、村は煙に包まれる。"
 
 #: ../../script/room.js:148
 msgid "armoury"
@@ -141,51 +142,51 @@ msgstr "武器庫"
 
 #: ../../script/room.js:151
 msgid "builder says it'd be useful to have a steady source of bullets"
-msgstr "ビルダーは、弾丸の着実なソースを持っていることは有用で思い語る"
+msgstr "建築家は武器さえあれば更に住み良くなると言う。"
 
 #: ../../script/room.js:152
 msgid "armoury's done, welcoming back the weapons of the past."
-msgstr "武器庫は、過去の武器をバック歓迎、行われます。"
+msgstr "武器庫が出来た。作る武器はどこか懐かしい。"
 
 #: ../../script/room.js:163 ../../script/localization.js:5
 msgid "torch"
-msgstr "トーチ"
+msgstr "松明"
 
 #: ../../script/room.js:166
 msgid "a torch to keep the dark away"
-msgstr "離れて暗いを保つためにトーチ"
+msgstr "松明があれば暗闇を照らせる。"
 
 #: ../../script/room.js:175
 msgid "waterskin"
-msgstr "水筒"
+msgstr "革製水筒"
 
 #: ../../script/room.js:179
 msgid "this waterskin'll hold a bit of water, at least"
-msgstr "この食堂は、少なくとも、水を少しを開催します"
+msgstr "革製の水筒で少し水を持ち歩けるようになった。素手よりは良い。"
 
 #: ../../script/room.js:187
 msgid "cask"
-msgstr "カスク"
+msgstr "樽"
 
 #: ../../script/room.js:191
 msgid "the cask holds enough water for longer expeditions"
-msgstr "カスクは、長い遠征のために十分な水を保持している"
+msgstr "長丁場の探検にこの樽は役に立つだろう。"
 
 #: ../../script/room.js:200
 msgid "water tank"
-msgstr "水槽"
+msgstr "大きな水筒"
 
 #: ../../script/room.js:204
 msgid "never go thirsty again"
-msgstr "再びのどが渇いて行くことはありません"
+msgstr "喉の乾きは、もう一生ない。"
 
 #: ../../script/room.js:213
 msgid "bone spear"
-msgstr "骨槍"
+msgstr "骨の槍"
 
 #: ../../script/room.js:216
 msgid "this spear's not elegant, but it's pretty good at stabbing"
-msgstr "この槍は、エレガントではありませんが、それは刺すようにかなり良いです"
+msgstr "見た目は良くないが、この槍なら突き刺すのには持ってこいだ。"
 
 #: ../../script/room.js:225 ../../script/world.js:279
 msgid "rucksack"
@@ -193,71 +194,71 @@ msgstr "リュックサック"
 
 #: ../../script/room.js:229
 msgid "carrying more means longer expeditions to the wilds"
-msgstr "荒野に複数の手段より長い遠征を運ぶ"
+msgstr "荒野では持てる荷物の量が物を言う。"
 
 #: ../../script/room.js:237
 msgid "wagon"
-msgstr "ワゴン"
+msgstr "台車"
 
 #: ../../script/room.js:241
 msgid "the wagon can carry a lot of supplies"
-msgstr "ワゴンは、物資の多くを運ぶことができます"
+msgstr "台車があれば、沢山運べる。"
 
 #: ../../script/room.js:250
 msgid "convoy"
-msgstr "車列"
+msgstr "大荷車"
 
 #: ../../script/room.js:254
 msgid "the convoy can haul mostly everything"
-msgstr "船団は主に何を運ぶことができます"
+msgstr "これでほとんど何でも運ぶことができる。"
 
 #: ../../script/room.js:264
 msgid "l armour"
-msgstr "レザーメイル"
+msgstr "レザーアーマー"
 
 #: ../../script/room.js:267
 msgid "leather's not strong. better than rags, though."
-msgstr "革は強くありません。ぼろよりも良い、しかし。"
+msgstr "革はそれほど強く無い。少なくともボロ布よりは良いだろうが。"
 
 #: ../../script/room.js:276
 msgid "i armour"
-msgstr "鉄の鎧"
+msgstr "アイアンアーマー"
 
 #: ../../script/room.js:279
 msgid "iron's stronger than leather"
-msgstr "鉄は革よりも強い"
+msgstr "鉄ならば、革よりも頑丈だ。"
 
 #: ../../script/room.js:288
 msgid "s armour"
-msgstr "鋼の鎧"
+msgstr "スチールアーマー"
 
 #: ../../script/room.js:291
 msgid "steel's stronger than iron"
-msgstr "鋼は鉄よりも強い"
+msgstr "鋼は鉄よりもずっと堅い。"
 
 #: ../../script/room.js:300
 msgid "iron sword"
-msgstr "鉄剣"
+msgstr "アイアンソード"
 
 #: ../../script/room.js:303
 msgid "sword is sharp. good protection out in the wilds."
-msgstr "剣は鋭いです。荒野での保護の実施のために良い。"
+msgstr "剣は鋭い。荒野ではきっと役に立つ。"
 
 #: ../../script/room.js:313
 msgid "steel sword"
-msgstr "鋼の剣"
+msgstr "スチールソード"
 
 #: ../../script/room.js:316
 msgid "the steel is strong, and the blade true."
-msgstr "鋼は強く、刃は本当。"
+msgstr "鋼は強かで、真の剣となる。"
 
 #: ../../script/room.js:326
 msgid "rifle"
-msgstr "ライフル"
+msgstr "散弾銃"
 
 #: ../../script/room.js:328
 msgid "black powder and bullets, like the old days."
-msgstr "昔のような黒い粉や弾丸、。"
+msgstr "暗黒の火薬と弾丸は、少し前の日々を思い起こさせる。"
 
 #: ../../script/room.js:460
 msgid "Room"
@@ -265,15 +266,15 @@ msgstr "部屋"
 
 #: ../../script/room.js:484 ../../script/room.js:603
 msgid "A Dark Room"
-msgstr "暗い部屋"
+msgstr "暗がりの部屋"
 
 #: ../../script/room.js:497
 msgid "light fire"
-msgstr "光火災"
+msgstr "火を灯す"
 
 #: ../../script/room.js:507
 msgid "stoke fire"
-msgstr "ストーク火災"
+msgstr "木をくべる"
 
 #: ../../script/room.js:544 ../../script/room.js:554 ../../script/room.js:702
 #: ../../script/room.js:706
@@ -288,31 +289,32 @@ msgstr "火は{0}"
 msgid ""
 "the stranger is standing by the fire. she says she can help. says she builds "
 "things."
-msgstr "見知らぬ人が火災で立っている。彼女は助けることができると言います。彼女ビルド言う"
+msgstr ""
+"見知らぬ人が炎に当たっている。自分の何かしたい、建築なら出来ると言っている。"
 
 #: ../../script/room.js:579
 msgid "freezing"
-msgstr "凍結"
+msgstr "凍える寒さだ。"
 
 #: ../../script/room.js:580
 msgid "cold"
-msgstr "寒い"
+msgstr "冷えている。"
 
 #: ../../script/room.js:581
 msgid "mild"
-msgstr "マイルド"
+msgstr "少し暖かい。"
 
 #: ../../script/room.js:582
 msgid "warm"
-msgstr "暖かい"
+msgstr "暖かい。"
 
 #: ../../script/room.js:583
 msgid "hot"
-msgstr "ホット"
+msgstr "暑い。"
 
 #: ../../script/room.js:595
 msgid "dead"
-msgstr "死んだ"
+msgstr "消えている。"
 
 #: ../../script/room.js:596
 msgid "smoldering"
@@ -320,56 +322,58 @@ msgstr "くすぶっている"
 
 #: ../../script/room.js:597
 msgid "flickering"
-msgstr "ちらつき"
+msgstr "今にも消えそうだ。"
 
 #: ../../script/room.js:598
 msgid "burning"
-msgstr "燃える"
+msgstr "燃えている。"
 
 #: ../../script/room.js:599
 msgid "roaring"
-msgstr "活発な"
+msgstr "唸るように燃え盛っている。"
 
 #: ../../script/room.js:603
 msgid "A Firelit Room"
-msgstr "消防明るい部屋"
+msgstr "火の灯った部屋"
 
 #: ../../script/room.js:641
 msgid "not enough wood to get the fire going"
-msgstr "行く火を取得するのに十分ではない木材"
+msgstr "火を灯し続けるには木が足りない。"
 
 #: ../../script/room.js:654
 msgid "the wood has run out"
-msgstr "木材は不足しています"
+msgstr "木材が無くなってしまった。"
 
 #: ../../script/room.js:674
 msgid "the light from the fire spills from the windows, out into the dark"
-msgstr "火からの光は暗い中に、窓からこぼれ"
+msgstr "灯火は窓から漏れ、闇に広がる。"
 
 #: ../../script/room.js:687
 msgid "builder stokes the fire"
-msgstr "ビルダーは火をストークス"
+msgstr "建築家を名乗る者はさらに木をくべている。"
 
 #: ../../script/room.js:717
 msgid "the wind howls outside"
-msgstr "風が外に吠える"
+msgstr "風は外で不気味な声を上げている。"
 
 #: ../../script/room.js:718
 msgid "the wood is running out"
-msgstr "木材は不足しています"
+msgstr "木が無くなりそうだ。"
 
 #: ../../script/room.js:725
 msgid "a ragged stranger stumbles through the door and collapses in the corner"
-msgstr "不揃い見知らぬ人がドアを通ってつまずくと隅に崩壊する"
+msgstr "みすぼらしい誰かが戸によろめきながら、隅の床に崩れ落ちた。"
 
 #: ../../script/room.js:733
 msgid ""
 "the stranger shivers, and mumbles quietly. her words are unintelligible."
-msgstr "見知らぬ人の震え、およびマンブルズ静か。彼女の言葉は理解できないです。"
+msgstr ""
+"見知らぬその者は震え、静かに独り言を発する。だがそれは言葉とは程遠いものだっ"
+"た。"
 
 #: ../../script/room.js:736
 msgid "the stranger in the corner stops shivering. her breathing calms."
-msgstr "隅に見知らぬ人が震えて停止します。彼女の呼吸が落ち着く。"
+msgstr "その者の震えが止まった。幾分か息の音に落ち着きが感じられる。"
 
 #: ../../script/room.js:890 ../../script/room.js:938
 msgid "not enough "
@@ -377,7 +381,7 @@ msgstr "十分でない"
 
 #: ../../script/room.js:910
 msgid "builder just shivers"
-msgstr "ビルダーはただ震え"
+msgstr "建築家はただ震えている。"
 
 #: ../../script/events.js:126
 msgid "eat meat"
@@ -385,7 +389,7 @@ msgstr "肉を食べる"
 
 #: ../../script/events.js:146
 msgid "use meds"
-msgstr "クスリを使う"
+msgstr "薬を使う"
 
 #: ../../script/events.js:474 ../../script/events/room.js:139
 #: ../../script/events/room.js:159 ../../script/events/room.js:179
@@ -410,11 +414,11 @@ msgstr "ボクサー"
 
 #: ../../script/engine.js:21
 msgid "punches do more damage"
-msgstr "パンチはより多くのダメージを与える"
+msgstr "殴ればダメージも大きい。"
 
 #: ../../script/engine.js:22
 msgid "learned to throw punches with purpose"
-msgstr "目的を持ってパンチをスローすることを学んだ"
+msgstr "目的をもって殴ることを覚えた。"
 
 #: ../../script/engine.js:25
 msgid "martial artist"
@@ -422,23 +426,23 @@ msgstr "武道家"
 
 #: ../../script/engine.js:26
 msgid "punches do even more damage."
-msgstr "パンチはさらにダメージを与える"
+msgstr "殴ればさらに大きなダメージを与えられる。"
 
 #: ../../script/engine.js:27
 msgid "learned to fight quite effectively without weapons"
-msgstr "核兵器のない、非常に効果的に戦うことを学んだ"
+msgstr "武器なしで戦闘に足る武道を覚えた。"
 
 #: ../../script/engine.js:30
 msgid "unarmed master"
-msgstr "非武装のマスター"
+msgstr "武器無しの名人"
 
 #: ../../script/engine.js:31
 msgid "punch twice as fast, and with even more force"
-msgstr "パンチ倍の速度であり、さらに力で"
+msgstr "殴る速さは2倍、力はそれ以上だ。"
 
 #: ../../script/engine.js:32
 msgid "learned to strike faster without weapons"
-msgstr "核兵器のない速く打つことを学びました"
+msgstr "武器なしでの早打ちを覚えた。"
 
 #: ../../script/engine.js:35
 msgid "barbarian"
@@ -446,84 +450,84 @@ msgstr "野蛮人"
 
 #: ../../script/engine.js:36
 msgid "melee weapons deal more damage"
-msgstr "近接武器は、より多くのダメージを与える"
+msgstr "クロウを使えば素手よりもずっと痛い。"
 
 #: ../../script/engine.js:37
 msgid "learned to swing weapons with force"
-msgstr "力で武器を振ることを学んだ"
+msgstr "力と武器の使い方を覚えた。"
 
 # contexte ?
 #: ../../script/engine.js:40
 msgid "slow metabolism"
-msgstr "遅い代謝"
+msgstr "体力温存"
 
 #: ../../script/engine.js:41
 msgid "go twice as far without eating"
-msgstr "食べず二度まで行く"
+msgstr "食べずともこれまでの2倍歩ける。"
 
 #: ../../script/engine.js:42
 msgid "learned how to ignore the hunger"
-msgstr "空腹を無視する方法を学びました"
+msgstr "空腹を感じなくなるようになった。"
 
 #: ../../script/engine.js:45
 msgid "desert rat"
-msgstr "砂漠のラット"
+msgstr "砂漠の鼠"
 
 #: ../../script/engine.js:46
 msgid "go twice as far without drinking"
-msgstr "飲酒せずに二度まで行く"
+msgstr "水なしでも耐えられるようになる。"
 
 #: ../../script/engine.js:47
 msgid "learned to love the dry air"
-msgstr "乾燥した空気を愛することを学んだ"
+msgstr "乾いた空気の方が肌に合う。"
 
 #: ../../script/engine.js:50
 msgid "evasive"
-msgstr "回避的な"
+msgstr "身軽"
 
 #: ../../script/engine.js:51
 msgid "dodge attacks more effectively"
-msgstr "ダッジは、より効果的に攻撃する"
+msgstr "身を翻せば攻撃も当たりやすい。"
 
 #: ../../script/engine.js:52
 msgid "learned to be where they're not"
-msgstr "彼らはわからないところであると学びました"
+msgstr "敵のいない場所に避けられるようになった。"
 
 #: ../../script/engine.js:55
 msgid "precise"
-msgstr "正確な"
+msgstr "動体視力"
 
 #: ../../script/engine.js:56
 msgid "land blows more often"
-msgstr "土地はより頻繁に吹く"
+msgstr "殴れ、もっとだ。"
 
 #: ../../script/engine.js:57
 msgid "learned to predict their movement"
-msgstr "彼らの動きを予測することを学んだ"
+msgstr "動きが読めるようになった。"
 
 #: ../../script/engine.js:60
 msgid "scout"
-msgstr "スカウト"
+msgstr "斥候"
 
 #: ../../script/engine.js:61
 msgid "see farther"
-msgstr "遠くを参照してください"
+msgstr "遠くを見通せ。"
 
 #: ../../script/engine.js:62
 msgid "learned to look ahead"
-msgstr "先読みすることを学んだ"
+msgstr "視界が広くなった。"
 
 #: ../../script/engine.js:65
 msgid "stealthy"
-msgstr "内密の"
+msgstr "隠密"
 
 #: ../../script/engine.js:66
 msgid "better avoid conflict in the wild"
-msgstr "より良い野生での競合を避ける"
+msgstr "これで野生の些細な戦いを避けられる。"
 
 #: ../../script/engine.js:67
 msgid "learned how not to be seen"
-msgstr "見られることではない方法を学びました"
+msgstr "見つからない術を覚えた。"
 
 #: ../../script/engine.js:70
 msgid "gastronome"
@@ -531,19 +535,19 @@ msgstr "美食家"
 
 #: ../../script/engine.js:71
 msgid "restore more health when eating"
-msgstr "食べるときより健康を回復"
+msgstr "食物で効率よく体力が回復できる。"
 
 #: ../../script/engine.js:72
 msgid "learned to make the most of food"
-msgstr "食べ物を最大限に活用することを学んだ"
+msgstr "食物を美味しく作れるようになった。"
 
 #: ../../script/engine.js:114 ../../script/engine.js:408
 msgid "lights off."
-msgstr "消灯"
+msgstr "灯りを消す"
 
 #: ../../script/engine.js:120 ../../script/space.js:439
 msgid "restart."
-msgstr "リセット"
+msgstr "ニューゲーム"
 
 #: ../../script/engine.js:126
 msgid "share."
@@ -551,11 +555,11 @@ msgstr "シェア"
 
 #: ../../script/engine.js:132
 msgid "save."
-msgstr "保存"
+msgstr "セーブ"
 
 #: ../../script/engine.js:138
 msgid "app store."
-msgstr "アプリケーションストア"
+msgstr "App. Storeを開く"
 
 #: ../../script/engine.js:216
 msgid "Export / Import"
@@ -563,15 +567,15 @@ msgstr "エクスポート/インポート"
 
 #: ../../script/engine.js:219
 msgid "export or import save data, for backing up"
-msgstr "エクスポートまたはバックアップするためのインポート、"
+msgstr "セーブデータのバックアップ用にエクスポート、またはインポートして復元。"
 
 #: ../../script/engine.js:220
 msgid "or migrating computers"
-msgstr "またはコンピュータを移行する"
+msgstr "またコンピュータを変える時も利用できる。"
 
 #: ../../script/engine.js:223
 msgid "export"
-msgstr "輸出"
+msgstr "エクスポート"
 
 #: ../../script/engine.js:227
 msgid "import"
@@ -583,7 +587,7 @@ msgstr "キャンセル"
 
 #: ../../script/engine.js:237
 msgid "are you sure?"
-msgstr "本当に？"
+msgstr "よろしいですか？"
 
 #: ../../script/engine.js:238
 msgid "if the code is invalid, all data will be lost."
@@ -591,7 +595,7 @@ msgstr "コードが無効な場合、すべてのデータが失われます。
 
 #: ../../script/engine.js:239
 msgid "this is irreversible."
-msgstr "これは不可逆的である。"
+msgstr "元に戻すことは出来ません。"
 
 #: ../../script/engine.js:242 ../../script/engine.js:303
 msgid "yes"
@@ -603,27 +607,27 @@ msgstr "いいえ"
 
 #: ../../script/engine.js:263
 msgid "Export"
-msgstr "輸出"
+msgstr "エクスポート"
 
 #: ../../script/engine.js:266
 msgid "save this."
-msgstr "これを保存"
+msgstr "このデータを保存"
 
 #: ../../script/engine.js:270
 msgid "got it"
-msgstr "たこと"
+msgstr "了解"
 
 #: ../../script/engine.js:280
 msgid "put the save code here."
-msgstr "ここに保存したコードを入れて"
+msgstr "保存コードを入力してください。"
 
 #: ../../script/engine.js:297
 msgid "Restart?"
-msgstr "再起動してください？"
+msgstr "ニューゲーム？"
 
 #: ../../script/engine.js:300
 msgid "restart the game?"
-msgstr "ゲームを再起動？"
+msgstr "リセットしてよろしいですか？"
 
 #: ../../script/engine.js:331
 msgid "Share"
@@ -631,19 +635,19 @@ msgstr "シェア"
 
 #: ../../script/engine.js:334
 msgid "bring your friends."
-msgstr "友達を連れてくる"
+msgstr "友達に教える"
 
 #: ../../script/engine.js:337
 msgid "facebook"
-msgstr "フェイスブック"
+msgstr "facebook"
 
 #: ../../script/engine.js:344
 msgid "google+"
-msgstr "Google+の"
+msgstr "Google+"
 
 #: ../../script/engine.js:351
 msgid "twitter"
-msgstr "ツイッター"
+msgstr "twitter"
 
 #: ../../script/engine.js:358
 msgid "reddit"
@@ -651,27 +655,27 @@ msgstr "reddit"
 
 #: ../../script/engine.js:365
 msgid "close"
-msgstr "クローズ"
+msgstr "閉じる"
 
 #: ../../script/engine.js:399 ../../script/engine.js:403
 msgid "lights on."
-msgstr "点灯し"
+msgstr "灯りを点ける"
 
 #: ../../script/engine.js:501
 msgid "{0} per {1}s"
-msgstr "{0}につき{1}"
+msgstr "{1}につき{0}"
 
 #: ../../script/localization.js:3
 msgid "saved."
-msgstr "保存された！"
+msgstr "保存済"
 
 #: ../../script/localization.js:3
 msgid "wood"
-msgstr "木材"
+msgstr "木"
 
 #: ../../script/localization.js:3
 msgid "builder"
-msgstr "ビルダー"
+msgstr "建築家"
 
 #: ../../script/localization.js:3
 msgid "teeth"
@@ -687,11 +691,11 @@ msgstr "毛皮"
 
 #: ../../script/localization.js:3
 msgid "alien alloy"
-msgstr "エイリアン合金"
+msgstr "宇宙合金"
 
 #: ../../script/localization.js:3
 msgid "bullets"
-msgstr "箇条書き"
+msgstr "弾丸"
 
 #: ../../script/localization.js:3
 msgid "grenade"
@@ -699,11 +703,11 @@ msgstr "手榴弾"
 
 #: ../../script/localization.js:3
 msgid "bolas"
-msgstr "ボーラス"
+msgstr "ボラ"
 
 #: ../../script/localization.js:4
 msgid "charm"
-msgstr "魅力"
+msgstr "お守り"
 
 #: ../../script/localization.js:4 ../../script/path.js:138
 msgid "leather"
@@ -715,7 +719,7 @@ msgstr "鉄"
 
 #: ../../script/localization.js:4 ../../script/path.js:134
 msgid "steel"
-msgstr "スチール"
+msgstr "鋼"
 
 #: ../../script/localization.js:4
 msgid "coal"
@@ -723,7 +727,7 @@ msgstr "石炭"
 
 #: ../../script/localization.js:4
 msgid "energy cell"
-msgstr "エネルギーセル"
+msgstr "電池"
 
 #: ../../script/localization.js:5
 msgid "medicine"
@@ -731,39 +735,39 @@ msgstr "薬"
 
 #: ../../script/localization.js:5 ../../script/outside.js:20
 msgid "hunter"
-msgstr "ハンター"
+msgstr "狩りをする者"
 
 #: ../../script/localization.js:5 ../../script/outside.js:28
 msgid "trapper"
-msgstr "トラッパー"
+msgstr "罠を仕掛ける者"
 
 #: ../../script/localization.js:5 ../../script/outside.js:36
 msgid "tanner"
-msgstr "タナー"
+msgstr "革をなめす者"
 
 #: ../../script/localization.js:6 ../../script/outside.js:44
 msgid "charcutier"
-msgstr "豚肉肉屋"
+msgstr "料理する者"
 
 #: ../../script/localization.js:6 ../../script/outside.js:53
 msgid "iron miner"
-msgstr "鉄鉱山労働者"
+msgstr "鉄を掘る者"
 
 #: ../../script/localization.js:6 ../../script/outside.js:61
 msgid "coal miner"
-msgstr "炭坑作業員"
+msgstr "石炭を掘る者"
 
 #: ../../script/localization.js:6 ../../script/outside.js:69
 msgid "sulphur miner"
-msgstr "硫黄鉱山労働者"
+msgstr "硫黄を掘る者"
 
 #: ../../script/localization.js:6 ../../script/outside.js:86
 msgid "armourer"
-msgstr "甲冑師"
+msgstr "甲冑を拵える者"
 
 #: ../../script/localization.js:7 ../../script/outside.js:77
 msgid "steelworker"
-msgstr "製鋼工"
+msgstr "製鉄する者"
 
 #: ../../script/localization.js:7
 msgid "bait"
@@ -771,15 +775,15 @@ msgstr "餌"
 
 #: ../../script/localization.js:7 ../../script/localization.js:8
 msgid "cured meat"
-msgstr "塩漬け肉"
+msgstr "燻製肉"
 
 #: ../../script/localization.js:7 ../../script/localization.js:8
 msgid "scales"
-msgstr "秤"
+msgstr "鉄くず"
 
 #: ../../script/localization.js:7
 msgid "compass"
-msgstr "コンパス"
+msgstr "方位磁針"
 
 #: ../../script/localization.js:7
 msgid "laser rifle"
@@ -787,11 +791,11 @@ msgstr "レーザー銃"
 
 #: ../../script/localization.js:7
 msgid "bayonet"
-msgstr "バヨネット"
+msgstr "銃剣"
 
 #: ../../script/localization.js:8 ../../script/outside.js:13
 msgid "gatherer"
-msgstr "採集"
+msgstr "木を集める者"
 
 #: ../../script/localization.js:8
 msgid "cloth"
@@ -803,91 +807,91 @@ msgstr "泥棒"
 
 #: ../../script/localization.js:9
 msgid "not enough fur"
-msgstr "十分ではない毛皮"
+msgstr "毛皮が足りないようだ。"
 
 #: ../../script/localization.js:9
 msgid "not enough wood"
-msgstr "十分ではない木材"
+msgstr "木が足りないようだ。"
 
 #: ../../script/localization.js:9
 msgid "not enough coal"
-msgstr "十分ではない石炭"
+msgstr "石炭が足りないようだ。"
 
 #: ../../script/localization.js:9
 msgid "not enough iron"
-msgstr "十分な鉄"
+msgstr "鉄が足りないようだ。"
 
 #: ../../script/localization.js:9
 msgid "not enough steel"
-msgstr "十分ではないスチール"
+msgstr "鋼が足りないようだ。"
 
 #: ../../script/localization.js:9
 msgid "baited trap"
-msgstr "餌を付けたトラップ"
+msgstr "囮付きの罠"
 
 #: ../../script/localization.js:10
 msgid "not enough scales"
-msgstr "十分ではないスケール"
+msgstr "鉄くずが足りないようだ。"
 
 #: ../../script/localization.js:10
 msgid "not enough teeth"
-msgstr "十分ではない歯"
+msgstr "歯牙が足りないようだ。"
 
 #: ../../script/localization.js:10
 msgid "not enough leather"
-msgstr "十分ではない革"
+msgstr "革が足りないようだ。"
 
 #: ../../script/localization.js:10
 msgid "not enough cloth"
-msgstr "十分ではない布"
+msgstr "布が足りないようだ。"
 
 #: ../../script/localization.js:11
 msgid "the compass points east."
-msgstr "コンパスポイント東。"
+msgstr "方位磁針は東を指している。"
 
 #: ../../script/localization.js:11
 msgid "the compass points west."
-msgstr "コンパスポイント西側。"
+msgstr "方位磁針は西を指している。"
 
 #: ../../script/localization.js:11
 msgid "the compass points north."
-msgstr "コンパスポイント北側。"
+msgstr "方位磁針は北を指している。"
 
 #: ../../script/localization.js:11
 msgid "the compass points south."
-msgstr "コンパスポイント南側。"
+msgstr "方位磁針は南を指している。"
 
 #: ../../script/localization.js:12
 msgid "the compass points northeast."
-msgstr "羅針盤ポイント北東。"
+msgstr "方位磁針は北東を指している。"
 
 #: ../../script/localization.js:12
 msgid "the compass points northwest."
-msgstr "コンパスポイント北西。"
+msgstr "方位磁針は北西を指している。"
 
 #: ../../script/localization.js:12
 msgid "the compass points southeast."
-msgstr "コンパスポイント南東。"
+msgstr "方位磁針は南東を指している。"
 
 #: ../../script/localization.js:12
 msgid "the compass points southwest."
-msgstr "コンパスポイント南西。"
+msgstr "方位磁針は南西を指している。"
 
 #: ../../script/localization.js:17
 msgid "stores"
-msgstr "ストレージ"
+msgstr "店"
 
 #: ../../script/localization.js:18
 msgid "weapons"
-msgstr "兵器"
+msgstr "武器"
 
 #: ../../script/localization.js:19
 msgid "build:"
-msgstr "構築："
+msgstr "建築："
 
 #: ../../script/localization.js:20
 msgid "craft:"
-msgstr "クラフト："
+msgstr "製作："
 
 #: ../../script/localization.js:21
 msgid "buy:"
@@ -895,15 +899,15 @@ msgstr "購入："
 
 #: ../../script/localization.js:22
 msgid "supplies:"
-msgstr "消耗品："
+msgstr "持ち物："
 
 #: ../../script/localization.js:23
 msgid "perks:"
-msgstr "特典："
+msgstr "特殊能力："
 
 #: ../../script/localization.js:24
 msgid "take:"
-msgstr "取る："
+msgstr "取り分："
 
 #: ../../script/localization.js:25
 msgid "forest"
@@ -911,15 +915,15 @@ msgstr "森"
 
 #: ../../script/path.js:29 ../../script/path.js:295
 msgid "A Dusty Path"
-msgstr "ダスティパス"
+msgstr "鬱蒼とした道"
 
 #: ../../script/path.js:43
 msgid "embark"
-msgstr "乗り出す"
+msgstr "出発する"
 
 #: ../../script/path.js:60
 msgid "the compass points "
-msgstr "コンパスポイント"
+msgstr "方位磁針の指す方向"
 
 #: ../../script/path.js:132
 msgid "none"
@@ -935,15 +939,15 @@ msgstr "水"
 
 #: ../../script/path.js:229 ../../script/world.js:284
 msgid "free {0}/{1}"
-msgstr "自由：{0}/{1}"
+msgstr "重量残り {0}/{1}"
 
 #: ../../script/path.js:253
 msgid "weight"
-msgstr "重さ"
+msgstr "重量"
 
 #: ../../script/path.js:255
 msgid "available"
-msgstr "利用できる"
+msgstr "残り"
 
 #: ../../script/ship.js:11
 msgid "Ship"
@@ -951,15 +955,15 @@ msgstr "船"
 
 #: ../../script/ship.js:27
 msgid "An Old Starship"
-msgstr "古いスターシップ"
+msgstr "古い宇宙船"
 
 #: ../../script/ship.js:38
 msgid "hull:"
-msgstr "ハル："
+msgstr "船体"
 
 #: ../../script/ship.js:44
 msgid "engine:"
-msgstr "エンジン："
+msgstr "駆動系"
 
 #: ../../script/ship.js:51
 msgid "reinforce hull"
@@ -967,33 +971,35 @@ msgstr "船体を強化"
 
 #: ../../script/ship.js:60
 msgid "upgrade engine"
-msgstr "エンジンをアップグレード"
+msgstr "駆動系をアップグレードする"
 
 #: ../../script/ship.js:69 ../../script/ship.js:142
 msgid "lift off"
-msgstr "リフトオフ！"
+msgstr "打ち上げ"
 
 #: ../../script/ship.js:91
 msgid ""
 "somewhere above the debris cloud, the wanderer fleet hovers. been on this "
 "rock too long."
-msgstr "どこかに破片の雲上、放浪者艦隊はホバー。長すぎるこの岩の上にあった。"
+msgstr ""
+"遠くデブリの上のどこかで、彷徨える者達は宇宙を彷徨う。どうやら、この星に長く"
+"居すぎたらしい。"
 
 #: ../../script/ship.js:106 ../../script/ship.js:119
 msgid "not enough alien alloy"
-msgstr "十分ではない外国人合金"
+msgstr "宇宙合金が足りないようだ。"
 
 #: ../../script/ship.js:134
 msgid "Ready to Leave?"
-msgstr "去る準備はできましたか？"
+msgstr "発つ準備は十分だろうか。"
 
 #: ../../script/ship.js:138
 msgid "time to get out of this place. won't be coming back."
-msgstr "この場所から抜け出すための時間。戻りません！"
+msgstr "ここから出る時だ。もう戻りはしない。"
 
 #: ../../script/ship.js:150
 msgid "linger"
-msgstr "リンガー"
+msgstr ""
 
 #: ../../script/world.js:46
 msgid "punch"
@@ -1163,7 +1169,8 @@ msgstr "やせ地は乾燥風に揺れて、草を死の海で破る。"
 msgid ""
 "a wall of gnarled trees rises from the dust. their branches twist into a "
 "skeletal canopy overhead."
-msgstr "節くれだった木の壁は、埃から上昇。支店は、骨格天蓋のオーバーヘッドにねじる。"
+msgstr ""
+"節くれだった木の壁は、埃から上昇。支店は、骨格天蓋のオーバーヘッドにねじる。"
 
 #: ../../script/world.js:777
 msgid "Wanderer"
@@ -1324,11 +1331,14 @@ msgstr "遊牧民"
 #: ../../script/events/room.js:13
 msgid ""
 "a nomad shuffles into view, laden with makeshift bags bound with rough twine."
-msgstr "ノマドはラフひもでバインド間に合わせの袋を積んでビューの中に加えて切り直す。"
+msgstr ""
+"ノマドはラフひもでバインド間に合わせの袋を積んでビューの中に加えて切り直す。"
 
 #: ../../script/events/room.js:14
 msgid "won't say from where he came, but it's clear that he's not staying."
-msgstr "彼が来たところからと言うが、それは彼が滞在していない明らかだことはありません。"
+msgstr ""
+"彼が来たところからと言うが、それは彼が滞在していない明らかだことはありませ"
+"ん。"
 
 #: ../../script/events/room.js:16
 msgid "a nomad arrives, looking to trade"
@@ -1409,7 +1419,8 @@ msgstr "内側に戻っ"
 #: ../../script/events/room.js:89
 msgid ""
 "a bundle of sticks lies just beyond the threshold, wrapped in coarse furs."
-msgstr "スティックの束が粗い毛皮に包まれ、まさにしきい値を超えて位置しています。"
+msgstr ""
+"スティックの束が粗い毛皮に包まれ、まさにしきい値を超えて位置しています。"
 
 #: ../../script/events/room.js:90
 msgid "the night is silent."
@@ -1499,7 +1510,9 @@ msgstr "謎の放浪者"
 msgid ""
 "a wanderer arrives with an empty cart. says if he leaves with wood, he'll be "
 "back with more."
-msgstr "放浪者は、空のカートで到着。あなたは木材を残せば、彼はそれ以上と戻ってきますと言います。"
+msgstr ""
+"放浪者は、空のカートで到着。あなたは木材を残せば、彼はそれ以上と戻ってきます"
+"と言います。"
 
 #: ../../script/events/room.js:266
 msgid "builder's not sure he's to be trusted."
@@ -1525,7 +1538,9 @@ msgstr "神秘的な放浪者に戻り、カートが木で高く積ま。"
 msgid ""
 "a wanderer arrives with an empty cart. says if she leaves with furs, she'll "
 "be back with more."
-msgstr "放浪者は、空のカートで到着。彼女は毛皮を離れた場合、彼女はそれ以上と戻ってきますと言います。"
+msgstr ""
+"放浪者は、空のカートで到着。彼女は毛皮を離れた場合、彼女はそれ以上と戻ってき"
+"ますと言います。"
 
 #: ../../script/events/room.js:336
 msgid "builder's not sure she's to be trusted."
@@ -1719,24 +1734,24 @@ msgstr "彼はかつて、新鮮な世界に大きな艦隊をリードするこ
 
 # :( :(
 #: ../../script/events/setpieces.js:73
-      msgid "unfathomable destruction to fuel wanderer hungers."
-      msgstr "放浪の飢えを燃料に対する計り知れない破壊。"
+msgid "unfathomable destruction to fuel wanderer hungers."
+msgstr "放浪の飢えを燃料に対する計り知れない破壊。"
 
 #: ../../script/events/setpieces.js:74
-      msgid "his time here, now, is his penance."
-      msgstr "ここに彼の時間は、今、彼の苦行です・・・"
+msgid "his time here, now, is his penance."
+msgstr "ここに彼の時間は、今、彼の苦行です・・・"
 
 #: ../../script/events/setpieces.js:90
-      msgid "A Damp Cave"
-      msgstr "湿った洞窟"
+msgid "A Damp Cave"
+msgstr "湿った洞窟"
 
 #: ../../script/events/setpieces.js:94
-      msgid "the mouth of the cave is wide and dark."
-      msgstr "洞窟の口が広く、暗い。"
+msgid "the mouth of the cave is wide and dark."
+msgstr "洞窟の口が広く、暗い。"
 
 #: ../../script/events/setpieces.js:95
-      msgid "can't see what's inside."
-      msgstr "中身を見ることができない！"
+msgid "can't see what's inside."
+msgstr "中身を見ることができない！"
 
 #: ../../script/events/setpieces.js:97
 msgid "the earth here is split, as if bearing an ancient wound"
@@ -1811,7 +1826,8 @@ msgstr "旧収容所跡はただの洞窟の中に座っている。"
 
 #: ../../script/events/setpieces.js:162
 msgid "bedrolls, torn and blackened, lay beneath a thin layer of dust."
-msgstr "ベッドのロールは、引き裂かれた黒化、ほこりの薄い層の下に横たわっていた。"
+msgstr ""
+"ベッドのロールは、引き裂かれた黒化、ほこりの薄い層の下に横たわっていた。"
 
 #: ../../script/events/setpieces.js:194
 msgid "the body of a wanderer lies in a small cavern."
@@ -1940,7 +1956,9 @@ msgstr "覆さキャラバンはあばた通りの向こう側に広がる。"
 msgid ""
 "it's been picked over by scavengers, but there's still some things worth "
 "taking."
-msgstr "それはスカベンジャーに引き継が選んだが、取る価値のものがまだあるされています。"
+msgstr ""
+"それはスカベンジャーに引き継が選んだが、取る価値のものがまだあるされていま"
+"す。"
 
 #: ../../script/events/setpieces.js:764
 msgid "a madman attacks, screeching."
@@ -1981,7 +1999,8 @@ msgstr "戦い、多分。"
 #: ../../script/events/setpieces.js:912
 msgid ""
 "a small basket of food is hidden under a park bench, with a note attached."
-msgstr "食品の小さなバスケットは付属のノートで、公園のベンチの下に隠されている。"
+msgstr ""
+"食品の小さなバスケットは付属のノートで、公園のベンチの下に隠されている。"
 
 #: ../../script/events/setpieces.js:913
 msgid "can't read the words."
@@ -2052,7 +2071,8 @@ msgstr "廃墟の街"
 #: ../../script/events/setpieces.js:1194
 msgid ""
 "a battered highway sign stands guard at the entrance to this once-great city."
-msgstr "虐待高速道路のサインは、このかつて偉大な都市の入り口にガードを立っている。"
+msgstr ""
+"虐待高速道路のサインは、このかつて偉大な都市の入り口にガードを立っている。"
 
 #: ../../script/events/setpieces.js:1195
 msgid ""
@@ -2106,7 +2126,9 @@ msgstr "街を離れる"
 
 #: ../../script/events/setpieces.js:1228
 msgid "orange traffic cones are set across the street, faded and cracked."
-msgstr "オレンジ色のトラフィックコーンは、通りの向こう側に設定色あせやひび割れている。"
+msgstr ""
+"オレンジ色のトラフィックコーンは、通りの向こう側に設定色あせやひび割れてい"
+"る。"
 
 #: ../../script/events/setpieces.js:1229
 msgid "lights flash through the alleys between buildings."
